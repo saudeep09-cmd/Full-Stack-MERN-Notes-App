@@ -1,1 +1,1 @@
-Created a notes website for writing online notes using MERN stack both frontend and backend using html, css, javascript, reactjs, nodejs, expressjs, mongodb, postman in backend as part of full stack development bootcamp
+Created a notes website for writing online notes using MERN stack both frontend and backend using html, css, javascript, reactjs, nodejs, expressjs, mongodb, postman in backend as part of full stack development bootcamp from GENEX in Feburary 2025.
